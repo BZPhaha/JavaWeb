@@ -5,4 +5,5 @@ package ajaxtest;
  */
 public class Test1115 {
     public  int NUM = 111111111;
+    public  int NUM66666 = 111111111;
 }
